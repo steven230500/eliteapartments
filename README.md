@@ -1,4 +1,4 @@
-# Property Management App
+# Elite Apartments
 
 App diseñada con Jetpack Compose y una arquitectura basada en MVVM. Permite a los usuarios agregar propiedades y ver detalles de cada propiedad.
 
